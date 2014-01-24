@@ -66,7 +66,7 @@ public class GSMCharset extends BaseCharset {
      */
     public static final char[] EXT_CHAR_TABLE = {
             0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, '\u000c', 0, 0, 0, 0, 0,
+            0, 0, '\f', 0, 0, 0, 0, 0,
             0, 0, 0, 0, '^', 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0,
